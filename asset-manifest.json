@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Textify/static/css/main.827ea5ad.css",
+    "main.js": "/Textify/static/js/main.df68b6ca.js",
+    "static/js/239.27b780d4.chunk.js": "/Textify/static/js/239.27b780d4.chunk.js",
+    "static/js/977.217b96e0.chunk.js": "/Textify/static/js/977.217b96e0.chunk.js",
+    "static/js/732.59d27c53.chunk.js": "/Textify/static/js/732.59d27c53.chunk.js",
+    "static/js/453.ff84864b.chunk.js": "/Textify/static/js/453.ff84864b.chunk.js",
+    "static/media/hero.png": "/Textify/static/media/hero.e1a4fc1b210bd4a6b173.png",
+    "index.html": "/Textify/index.html",
+    "main.827ea5ad.css.map": "/Textify/static/css/main.827ea5ad.css.map",
+    "main.df68b6ca.js.map": "/Textify/static/js/main.df68b6ca.js.map",
+    "239.27b780d4.chunk.js.map": "/Textify/static/js/239.27b780d4.chunk.js.map",
+    "977.217b96e0.chunk.js.map": "/Textify/static/js/977.217b96e0.chunk.js.map",
+    "732.59d27c53.chunk.js.map": "/Textify/static/js/732.59d27c53.chunk.js.map",
+    "453.ff84864b.chunk.js.map": "/Textify/static/js/453.ff84864b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.827ea5ad.css",
+    "static/js/main.df68b6ca.js"
+  ]
+}
